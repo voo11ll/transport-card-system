@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "929602853878",
+    "project_id": "transcard-802b8",
+    "storage_bucket": "transcard-802b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929602853878:android:77d8d53e3827b5ba8705d7",
+        "android_client_info": {
+          "package_name": "com.example.transcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "929602853878-cj92olo9rf1feb2cts2v12hegcdm0j51.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.transcard",
+            "certificate_hash": "a2c95ef447a0cfd887cb72da12e26b45e70aeb45"
+          }
+        },
+        {
+          "client_id": "929602853878-i6qf6qm0f6kaccqputbb6lv5o6dq7aq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Zy7cl6aMqqpiJ2oQgkp8bj1h_buu0kA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "929602853878-i6qf6qm0f6kaccqputbb6lv5o6dq7aq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
